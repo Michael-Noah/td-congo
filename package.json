@@ -42,12 +42,12 @@
     "react-app-rewired": "^2.1.6"
   },
   "scripts": {
-    "predeploy": "yarn build",
+    "predeploy": "npm run build",
 "deploy": "gh-pages -d build",
     "start": "cross-env PORT=3004 react-app-rewired start",
     "build": "react-app-rewired build",
     "serve": "serve -s build",
-    "test": "react-scripts test --env=jsdom",
+    "test": "react-app-rewired test --env=jsdom",
     "eject": "react-scripts eject"
   },
   "browserslist": [
