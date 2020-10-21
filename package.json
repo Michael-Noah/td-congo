@@ -3,7 +3,7 @@
   "version": "2.1.0",
   "private": true,
   "main": "index.js",
-  "homepage": "https://Michael-Noah.github.io/",
+  "homepage": "https://Michael-Noah.github.io/td-congo",
   "dependencies": {
     "antd": "^4.6.3",
     "antd-local-icon": "^0.1.3",
