@@ -1,0 +1,7 @@
+.SpinnerDiv {
+    /* style={{textAlign: 'center', width: '100%', position: 'absolute', bottom:'50%'}} */
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 45%;
+}

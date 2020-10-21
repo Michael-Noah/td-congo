@@ -1,0 +1,21 @@
+.CalcBarInput {
+    background: none;
+    padding: none;
+    margin: none;
+    height: 100%;
+    box-sizing: border-box;
+    border: none;
+    text-align: right;
+    width: 14%;
+}
+
+.CalcBarInput:focus {
+    background: #feffe6;
+    
+}
+
+.CalcBarIcon {
+    display: inline-block;
+    font-weight: bold;
+    padding-left: 0.3vw;
+}
