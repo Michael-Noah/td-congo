@@ -1,0 +1,1 @@
+{"version":3,"sources":["SpinnerWidget.css"],"names":[],"mappings":"AAAA,YAEI,iBAAkB,CAClB,UAAW,CACX,iBAAkB,CAClB,UACJ","file":"22.589c1fca.chunk.css","sourcesContent":[".SpinnerDiv {\r\n    /* style={{textAlign: 'center', width: '100%', position: 'absolute', bottom:'50%'}} */\r\n    text-align: center;\r\n    width: 100%;\r\n    position: absolute;\r\n    bottom: 45%;\r\n}"]}
